@@ -25,3 +25,4 @@
   </a>
 </p> -->
 
+![Snake animation](https://github.com/ti-pneubras/ti-pneubras/blob/output/github-contribution-grid-snake.svg)
